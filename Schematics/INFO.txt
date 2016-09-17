@@ -1,0 +1,1 @@
+Holders designed to allow grovePi sensors to click into them like lego
